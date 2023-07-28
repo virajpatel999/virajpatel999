@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Viraj Patel</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Computer Science Student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajpatel999&label=Profile%20views&color=0e75b6&style=flat" alt="virajpatel999" /> </p>
 
-- 💬 Ask me about **Data Structures | OS | DBMS | OOPS**
+- 💬 Ask me about **C | C++ | Java | Python | HTML | CSS | JavaScript**
 
 - 📫 How to reach me **virajpatel26902@gmail.com**
 
